@@ -33,3 +33,10 @@ How to Run
 Open the terminal and run:
 
 python src/main.py
+
+
+## Author Information
+
+**Name:** Md. Mehedi Hasan
+
+This project was created as part of a Git and GitHub practical assignment.
